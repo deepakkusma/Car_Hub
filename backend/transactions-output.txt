@@ -1,0 +1,38 @@
+Found 3 transaction(s):
+
+{
+  "id": "242ca0fe-6ea3-4ef3-9a08-33958d1552fe",
+  "buyer": "Harsh  (hiteshflix9@gmail.com)",
+  "vehicle": "2022 Volkswagen Taigun",
+  "vehicleStatus": "approved",
+  "txnStatus": "payment_initiated",
+  "paymentType": "advance_upi",
+  "amount": "1550000.00",
+  "bookingAmount": "77500.00",
+  "remainingAmount": "1472500.00"
+}
+---
+{
+  "id": "118eb22e-85fc-427d-b717-18161c922857",
+  "buyer": "Harsh  (hiteshflix9@gmail.com)",
+  "vehicle": "2022 Maruti Suzuki Swift",
+  "vehicleStatus": "sold",
+  "txnStatus": "completed",
+  "paymentType": "cash_booking",
+  "amount": "650000.00",
+  "bookingAmount": "0.00",
+  "remainingAmount": "0.00"
+}
+---
+{
+  "id": "f09a0fcc-1ac8-40fa-bac0-7b9f4419be74",
+  "buyer": "Harsh  (hiteshflix9@gmail.com)",
+  "vehicle": "2026 Maruti Suzuki Dzire",
+  "vehicleStatus": "sold",
+  "txnStatus": "completed",
+  "paymentType": "cash_booking",
+  "amount": "525000.00",
+  "bookingAmount": "0.00",
+  "remainingAmount": "0.00"
+}
+---

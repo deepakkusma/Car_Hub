@@ -1,0 +1,6 @@
+Testing forgot password with email: nonexistent@example.com
+Health Check Failed: TypeError: fetch failed
+Trying path: forget-password
+Error running test for forget-password: TypeError: fetch failed
+Trying path: forgot-password
+Error running test for forgot-password: TypeError: fetch failed
